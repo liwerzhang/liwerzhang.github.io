@@ -26,7 +26,7 @@ I will obtain my B.Eng in Automation in Jun. 2022 at [Northeastern University][n
 ### Research Interests 
 **focus on the intersection of control, robitics and learning**.     
 
-**current topics -  transformer + multi-agent reinforcement learning, and [multi-agent pathfinding][mapf] epsecially multi-agent informative path planning.**   
+**current topics -  RL-based UAV decision-making considering energy consumption, and [multi-agent pathfinding][mapf] epsecially multi-agent informative path planning.**   
 
 
 [ece]: https://cemse.kaust.edu.sa/ece
