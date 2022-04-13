@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Visiting Student in Robotics, Control and Learning @ <a href='https://www.kaust.edu.sa/en'>KAUST</a>
-          Incoming Red Bird Mphil Student @ <a href='https://hkust-gz.edu.cn/'>HKUST(GZ)</a>  
+subtitle: <p>Visiting Student @ <a href='https://www.kaust.edu.sa/en'>KAUST</a></p>
+          <p>Incoming Red Bird Mphil Student @ <a href='https://hkust-gz.edu.cn/'>HKUST(GZ)</a></p> 
 profile: 
   align: center
   image: prof_pic.jpg
