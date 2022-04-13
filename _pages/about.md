@@ -7,11 +7,7 @@ subtitle: <p>Visiting Student @ <a href='https://www.kaust.edu.sa/en'>KAUST</a><
 profile: 
   align: center
   image: prof_pic.jpg
-  address: >
-    <p>Incoming Red Bird Mphil Student</p>
-    <p>Robotics and Autonomous Systems Thrust, The Hong Kong University of Science and Technology, Guangzhou</p>
-    <p>Visiting Student</p>
-    <p>Electrical and Computer Engineering Department, King Abdullah University of Science and Technology</p>
+  address: >  
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
