@@ -46,4 +46,3 @@ I will obtain my B.Eng in Automation in Jun. 2022 at [Northeastern University][n
 [hkust(gz)]: https://hkust-gz.edu.cn/
 [junma]: https://junma-ust.github.io/
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
