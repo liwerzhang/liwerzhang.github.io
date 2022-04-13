@@ -4,12 +4,11 @@ title: about
 permalink: /
 subtitle: Visiting Student in Robotics, Control and Learning @ <a href='https://www.kaust.edu.sa/en'>KAUST</a>
 
-
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>ECE, KAUST</p>
+    <p>with my girlfriend at <a href='http://www.aranya.cc/'>Aranya</a></p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
