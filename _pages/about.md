@@ -3,12 +3,12 @@ layout: about
 title: about
 permalink: /
 subtitle: Visiting Student in Robotics, Control and Learning @ <a href='https://www.kaust.edu.sa/en'>KAUST</a>
-          Incoming Red Bird Mphil Student @ The Hong Kong University of Science and Technology, Guangzhou
-profile:
+          Incoming Red Bird Mphil Student @ <a href='https://hkust-gz.edu.cn/'>HKUST(GZ)</a>  
+profile: 
   align: center
   image: prof_pic.jpg
   address: >
-    <p>Red Bird Mphil Student</p>
+    <p>Incoming Red Bird Mphil Student</p>
     <p>Robotics and Autonomous Systems Thrust, The Hong Kong University of Science and Technology, Guangzhou</p>
     <p>Visiting Student</p>
     <p>Electrical and Computer Engineering Department, King Abdullah University of Science and Technology</p>
@@ -22,7 +22,11 @@ Hi. I am Yubin Wang, a Visiting Student at the [Department of Electrical and Com
 
 I also hold a research position as a intern working in [Multi-Agent Robotic Motion Lab][marmot] advised by [Prof.Guillaume Sartoretti][gui] at [National University of Singapore][nus].          
           
-I will obtain my B.Eng in Automation in Jun. 2022 at [Northeastern University][neu]. I also worked closely with [Prof. Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps] at [Northeastern University][neu] in China.   
+I will join the Robotics and Autonomous Systems Thrust at [The Hong Kong University of Science and Technology, Guangzhou][hkust(gz)] as Red Bird Mphil Student working with [Prof. Jun Ma][junma] this fall.
+
+I will obtain my B.Eng in Automation in Jun. 2022 at [Northeastern University][neu]. I also worked closely with [Prof. Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps] at [Northeastern University][neu] in China.
+
+
 
 
 ### Research Interests 
@@ -43,5 +47,7 @@ I will obtain my B.Eng in Automation in Jun. 2022 at [Northeastern University][n
 [saps]: http://www.sapi.neu.edu.cn/
 [traffic]: https://marmotlab.org/projects/urban_traffic.html
 [mapf]: http://mapf.info
+[hkust(gz)]: https://hkust-gz.edu.cn/
+[junma]: https://junma-ust.github.io/
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
