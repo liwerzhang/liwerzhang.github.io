@@ -5,10 +5,14 @@ permalink: /
 subtitle: Visiting Student in Robotics, Control and Learning @ <a href='https://www.kaust.edu.sa/en'>KAUST</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: >
-    <p>with my girlfriend at <a href='http://www.aranya.cc/'>Aranya</a></p>
+    Red Bird Mphil Student
+    Robotics and Autonomous Systems Thrust, The Hong Kong University of Science and Technology, Guangzhou
+
+    Visiting Student
+    Electrical and Computer Engineering Department, King Abdullah University of Science and Technology 
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
