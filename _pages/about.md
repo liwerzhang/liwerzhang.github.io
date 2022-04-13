@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Visiting Student in Robotics, Control and Learning @ <a href='https://www.kaust.edu.sa/en'>KAUST</a>
-
+          Incoming Red Bird Mphil Student @ The Hong Kong University of Science and Technology, Guangzhou
 profile:
   align: center
   image: prof_pic.jpg
@@ -12,7 +12,7 @@ profile:
     <p>Robotics and Autonomous Systems Thrust, The Hong Kong University of Science and Technology, Guangzhou</p>
     <p>Visiting Student</p>
     <p>Electrical and Computer Engineering Department, King Abdullah University of Science and Technology</p>
-    
+
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
