@@ -2,7 +2,7 @@
 layout: page
 title: Evader Pursuit Game
 description: Multi Agent Reinforcement Learning
-img: /assets/img/flatland/cover.png
+img: /assets/img/evader_pursuit/mpe.jpg
 importance: 1
 category: [machine learning,robotics] 
 

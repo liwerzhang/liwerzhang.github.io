@@ -2,7 +2,7 @@
 layout: page
 title: Micro-UAV Swarm
 description: Multi-UAV formation flight
-img: /assets/img/flatland/cover.png
+img: /assets/img/swarm/swarm.jpg
 importance: 1.1
 category: [robotics] 
 ---

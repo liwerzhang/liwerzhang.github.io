@@ -2,8 +2,7 @@
 layout: page
 title: Multi-Robot Safe Transitions
 description:  Online Model Predictive  Control for Multi-Agent System
-img: /assets/img/flatland/cover.png
-importance: 1
+img: /assets/img/roboform/roboform.jpg
 category: [robotics] 
 
 ---
