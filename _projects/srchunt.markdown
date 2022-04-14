@@ -2,7 +2,7 @@
 layout: page
 title: Robots Source Hunting
 description:  Online Model Predictive  Control for Multi-Agent System
-img: /assets/img/flatland/cover.png
+img: /assets/img/srchunt/srchunt.jpg
 importance: 1.2
 category: [robotics] 
 ---
