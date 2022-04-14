@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A updating collection of my projects in robotics, control and learning.
 nav: true
-display_categories: [work, fun]
+display_categories: [kaust, nus, neu]
 horizontal: false
 ---
 
