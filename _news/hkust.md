@@ -4,7 +4,6 @@ date: 2022-04-03
 inline: true
 ---
 
-I will relocate to [HKUST(GZ)][hkust(gz)] to for graduate school to balance academic career and family life.
+I will join [the Hong Kong University of Science and Technology, Guangzhou][hkust] as a Mphil Student this Fall.
 
-[hkust(gz)]: https://hkust-gz.edu.cn/
-[junma]: https://junma-ust.github.io/
+[hkust]: https://hkust-gz.edu.cn/
