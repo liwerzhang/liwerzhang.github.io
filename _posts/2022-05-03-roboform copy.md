@@ -5,8 +5,8 @@ date: 2021-09-12
 #permalink: /posts/2021/09/roboform
 #excerpt_separator: <!--more-->
 #toc: true
-tags: multi-robot systems
-categories: sample-posts
+tags: turtlebot3
+categories: robitics
 ---
 This technical report aims to server as course project technical report from Yubin Wang and also be tutorials of Turtlebot3 with ROS2 and Python3 for all members at ANCL which is under the supervision of Prof. Fei Chen at Northeastern University.
 
@@ -15,7 +15,7 @@ This technical report aims to server as course project technical report from Yub
 Please note that this technical report **has not been published as open source file**.
 And we are considering to free this project access to public if in convenience.
 
-Author: Yubin Wang, Du Yong
+Author: Yubin Wang
 
 
 # Hardware
