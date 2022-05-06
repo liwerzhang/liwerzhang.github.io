@@ -4,7 +4,7 @@ title: Learning Observer
 description: A learning-based observer for state estimation of Direct Contact Membrane Distillation
 img: /assets/img/dcmd/dcmd.png
 importance: 1
-category: kaust
+category: KAUST
 ---
 
 ## Introduction

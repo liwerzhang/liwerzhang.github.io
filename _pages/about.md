@@ -15,11 +15,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 ### About
 
-Hi, I am Yubin Wang, a Visiting Student at the [Department of Electrical and Computer Engineering][ece] advised by Prof.[Yehia Massoud][itl].    
+Hi, I am Yubin Wang, a Visiting Student at the [Department of Electrical and Computer Engineering][ece] advised by [Prof.Yehia Massoud][itl].    
 
-I also hold a research position as a research intern working in [Multi-Agent Robotic Motion Lab][marmot] advised by Prof.[Guillaume Sartoretti][gui] at [National University of Singapore][nus].          
+I also hold a research position as a research intern working in [Multi-Agent Robotic Motion Lab][marmot] advised by [Prof.Guillaume Sartoretti][gui] at [National University of Singapore][nus].          
 
-I will obtain my B.Eng in Automation in Jun. 2022 from [Northeastern University][neu] where worked closely with Prof.[Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps].
+I will obtain my B.Eng in Automation in Jun. 2022 from [Northeastern University][neu] where worked closely with [Prof.Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps].
 
 ### Research Interests 
 **focus on the intersection of robitics, control and learning**.     

@@ -4,7 +4,7 @@ title: Evader Pursuit Game
 description: Multi Agent Reinforcement Learning
 img: /assets/img/evader_pursuit/mpe.jpg
 importance: 2
-category: nus
+category: NUS
 ---
 My work at MARMot @ NUS was releted to evader-puruit game via Multi-Agent Reinforcement Learning with communication. This implementation was on the basis of OpenAI Gym and MPE. The mission of pursuers is to cage the evader via multi-agent colaboration, to ensure the evader cannot escape from cage for enough long time in the bounded world. Please note the policy of evder is not greedy but trained which means the evader is smart enough to plan the best evadision route. The learning framework and algorithm is MAAC from our friends @ USC.
 

@@ -4,7 +4,7 @@ title: Multi-Robot Safe Transitions
 description: 
 img: /assets/img/roboform/roboform.jpg
 importance: 1
-category: neu
+category: NEU
 
 ---
 **Code:**
