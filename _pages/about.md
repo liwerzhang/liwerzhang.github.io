@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Visiting Student in ECE @ <a href='https://www.kaust.edu.sa/en'>KAUST</a></p>
-          # <p>Incoming Red Bird Mphil Student in Robitics @ <a href='https://hkust-gz.edu.cn/'>HKUST(GZ)</a></p> 
+subtitle: 
+          <p>Red Bird Mphil Student in Robitics @ <a href='https://hkust-gz.edu.cn/'>HKUST(GZ)</a></p> 
+          <p>Visiting Student in ECE @ <a href='https://www.kaust.edu.sa/en'>KAUST</a></p>
 profile: 
   align: center
   image: prof_pic.jpg
@@ -15,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ### About
 
-Hi, I am Yubin Wang, a Visiting Student at the [Department of Electrical and Computer Engineering][ece] advised by [Prof.Yehia Massoud][itl].    
+Hi, I am Yubin Wang, a Mphil Student in Robotics at [HKUST(GZ)][hkust(gz)] and a Visiting Student at the [Department of Electrical and Computer Engineering][ece] advised by [Prof.Yehia Massoud][itl].    
 
 I also hold a research position as a research intern working in [Multi-Agent Robotic Motion Lab][marmot] advised by [Prof.Guillaume Sartoretti][gui] at [National University of Singapore][nus].          
 
