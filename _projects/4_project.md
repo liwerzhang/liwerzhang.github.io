@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robots Source Hunting
-description: Online Model Predictive Control for Multi-Agent System
+description: Distributed Multi-Robot Systems Source Hunting
 img: /assets/img/srchunt/srchunt.jpg
 importance: 2
 category: NEU
