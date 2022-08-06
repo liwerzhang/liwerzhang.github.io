@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ### About
 
-Hi, I am Yubin Wang, a Mphil Student in [Robotics][roas] at [the Hong Kong University of Science and Technology (GuangZhou)][hkust(gz)] and a Visiting Student in [Electrical and Computer Engineering][ece] advised by [Prof.Yehia Massoud][itl] at [King Abdullah University of Science and Technology][kaust].    
+Hi, I am Yubin Wang, a Mphil Student in [Robotics][roas] at [the Hong Kong University of Science and Technology (Guangzhou)][hkust(gz)] and a Visiting Student in [Electrical and Computer Engineering][ece] advised by [Prof.Yehia Massoud][itl] at [King Abdullah University of Science and Technology][kaust].    
 
 I also hold a research position as a research intern working in [Multi-Agent Robotic Motion Lab][marmot] advised by [Prof.Guillaume Sartoretti][gui] at [National University of Singapore][nus].          
 
