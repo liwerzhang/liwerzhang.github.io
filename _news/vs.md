@@ -3,7 +3,6 @@ layout: post
 date: 2021-07-01 
 inline: true
 ---
+Start my visiting at [KAUST][kaust] !
 
-Start as a visiting student at [King Abdullah University of Science and Technology (KAUST)][kaust] ! 
-
-[kaust]: https://wwwkaust.edu.sa/en 
+[kaust]: https://wwwkaust.edu.sa/en

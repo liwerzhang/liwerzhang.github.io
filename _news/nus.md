@@ -3,7 +3,6 @@ layout: post
 date: 2021-03-01 
 inline: true
 ---
-
-Start my work as an intern at [National University of Singapore][nus] ! 
+Start my internship at [NUS][nus] !
 
 [nus]: https://www.nus.edu.sg
