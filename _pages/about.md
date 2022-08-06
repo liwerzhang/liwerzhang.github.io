@@ -16,26 +16,19 @@ social: true  # includes social icons at the bottom of the page
 ---
 ### About
 
-Hi, I am Yubin Wang, a Mphil Student in [Robotics][roas] at [the Hong Kong University of Science and Technology (Guangzhou)][hkust(gz)] and a Visiting Student in [Electrical and Computer Engineering][ece] advised by [Prof.Yehia Massoud][itl] at [King Abdullah University of Science and Technology][kaust].    
+Hi, I am Yubin Wang, a Mphil Student in [Robotics][roas] at [the Hong Kong University of Science and Technology (Guangzhou)][hkust(gz)] and also a Visiting Student in [Electrical and Computer Engineering][ece] advised by [Yehia Massoud][itl] at [King Abdullah University of Science and Technology][kaust].
 
-I also hold a research position as a research intern working in [Multi-Agent Robotic Motion Lab][marmot] advised by [Prof.Guillaume Sartoretti][gui] at [National University of Singapore][nus].          
+I also hold a position as a research intern at [Multi-Agent Robotic Motion Lab][marmot] advised by [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
 
-I obtained my B.Eng in Automation in 2022 from [Northeastern University][neu] where worked closely with [Prof.Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps].
+I obtained my B.Eng in Automation in 2022 from [Northeastern University][neu] with [Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps].
 
-### Research Interests 
-**focus on the intersection of robitics, control and learning**.     
+### Research Interests
 
-**current topics -  motion planning for autonomous vehicles via combining DeepRL with conventional control strategies, and [multi-agent pathfinding][mapf] epsecially multi-agent informative path planning.**   
+**focus on the intersection of robitics, control and learning**.
 
+**current topics -  motion planning for autonomous vehicles via combining DeepRL with conventional control strategies, and [multi-agent pathfinding][mapf] epsecially multi-agent informative path planning.**
 
-[ece]: https://cemse.kaust.edu.sa/ece
-[itl]: https://cemse.kaust.edu.sa/itl
-[meriem]: https://cemse.kaust.edu.sa/emang/people/person/taous-meriem-laleg-kirati
-[kaust]: https://www.kaust.edu.sa/en
-[gui]: https://marmotlab.org/bio.html
-[marmot]: https://www.marmotlab.org
-[nus]: https://www.nus.edu.sg
-[neu]: https://www.neu.edu.cn 
+[neu]: https://www.neu.edu.cn
 [fei]: https://ancl.com.cn/
 [saps]: http://www.sapi.neu.edu.cn/
 [traffic]: https://marmotlab.org/projects/urban_traffic.html
@@ -44,3 +37,10 @@ I obtained my B.Eng in Automation in 2022 from [Northeastern University][neu] wh
 [junma]: https://junma-ust.github.io/
 [roas]: https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/robotics-and-autonomous-systems
 
+[ece]: https://cemse.kaust.edu.sa/ece
+[itl]: https://cemse.kaust.edu.sa/itl
+[meriem]: https://cemse.kaust.edu.sa/emang/people/person/taous-meriem-laleg-kirati
+[kaust]: https://www.kaust.edu.sa/en
+[gui]: https://marmotlab.org/bio.html
+[marmot]: https://www.marmotlab.org
+[nus]: https://www.nus.edu.sg
