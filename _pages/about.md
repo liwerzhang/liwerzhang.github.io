@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-          <p>Red Bird Mphil Student in Robitics @ <a href='https://hkust-gz.edu.cn/'>HKUST(GZ)</a></p> 
-          <p>Visiting Student in ECE @ <a href='https://www.kaust.edu.sa/en'>KAUST</a></p>
+          <p>Mphil Student in Robitics @ <a href='https://hkust-gz.edu.cn/'>HKUST(GZ)</a></p> 
+  
 profile: 
   align: center
   image: prof_pic.jpg
@@ -34,7 +34,6 @@ I was a Visiting Student in [Electrical and Computer Engineering][ece] advised b
 [hkust(gz)]: https://hkust-gz.edu.cn/
 [junma]: https://junma-ust.github.io/
 [roas]: https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/robotics-and-autonomous-systems
-
 [ece]: https://cemse.kaust.edu.sa/ece
 [itl]: https://cemse.kaust.edu.sa/itl
 [meriem]: https://cemse.kaust.edu.sa/emang/people/person/taous-meriem-laleg-kirati
