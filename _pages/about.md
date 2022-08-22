@@ -18,11 +18,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am Yubin Wang, a Mphil Student in [Robotics][roas] at [the Hong Kong University of Science and Technology (Guangzhou)][hkust(gz)]. I also hold a position as a research intern at [Multi-Agent Robotic Motion Lab][marmot] advised by [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
 
-I was a Visiting Student in [Electrical and Computer Engineering][ece] advised by [Yehia Massoud][itl] and [Meriem Laleg][meriem] at [King Abdullah University of Science and Technology][kaust]. I obtained my B.Eng in Automation in 2022 from [Northeastern University][neu] with [Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps].
+Before that, I was a Visiting Student at [Innovative Technologies Laboratories][itl] advised by [Yehia Massoud][itl] at [King Abdullah University of Science and Technology][kaust] and jointly advised by [Meriem Laleg][meriem] at [King Abdullah University of Science and Technology][kaust] and [Université Paris-Saclay][paris-scalay]. I obtained my B.Eng in Automation in 2022 from [Northeastern University][neu] with [Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps].
 
 ### Research Interests
 
-**focus on the intersection of robitics, control and learning**.
+**focus on the intersection of robitics, control and learning with applications to planning and decision-making for autonomous systems**.
 
 **current topics -  motion planning for autonomous vehicles via combining DeepRL with conventional control strategies, and [multi-agent pathfinding][mapf] epsecially multi-agent informative path planning.**
 
@@ -41,3 +41,4 @@ I was a Visiting Student in [Electrical and Computer Engineering][ece] advised b
 [gui]: https://marmotlab.org/bio.html
 [marmot]: https://www.marmotlab.org
 [nus]: https://www.nus.edu.sg
+[paris-scalay]: https://www.universite-paris-saclay.fr
