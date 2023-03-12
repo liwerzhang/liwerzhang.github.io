@@ -16,15 +16,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 ### About
 
-Hi, I am Yubin Wang, a Mphil Student in [Robotics][roas] at [the Hong Kong University of Science and Technology (Guangzhou)][hkust(gz)]. 
+Hi, I am Yubin Wang, a Mphil Student in [Robotics][roas] with [Jun Ma][jun] at [the Hong Kong University of Science and Technology (Guangzhou)][hkust(gz)] and co-advised by [Yehia Massoud][yehia] at [Innovative Technologies Laboratories][itl] at [King Abdullah University of Science and Technology][kaust]. 
 
-Before that, I was a Visiting Student at [Innovative Technologies Laboratories][itl] advised by [Yehia Massoud][itl] at [King Abdullah University of Science and Technology][kaust] and jointly advised by [Meriem Laleg][meriem] at [King Abdullah University of Science and Technology][kaust] and [Université Paris-Saclay][paris-scalay]. I obtained my B.Eng in Automation in 2022 from [Northeastern University][neu] with [Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps]. I also held a position as a research intern at [Multi-Agent Robotic Motion Lab][marmot] advised by [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
+Before that, I was a Visiting Student with [Meriem Laleg][meriem] at [King Abdullah University of Science and Technology][kaust] (now at [Université Paris-Saclay][paris-scalay]). I obtained my B.Eng  in 2022 from [Northeastern University][neu] with [Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps]. I also held a position as a research intern at [Multi-Agent Robotic Motion Lab][marmot] advised by [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
 
 ### Research Interests
 
 **focus on the intersection of robitics, control and learning with applications to planning and decision-making for autonomous systems**.
 
-**current topics -  motion planning for autonomous vehicles via combining DeepRL with conventional control strategies.**
+**current topics -  motion planning for autonomous vehicles via combining deep learning and  conventional control strategies.**
 
 [neu]: https://www.neu.edu.cn
 [fei]: https://ancl.com.cn/
@@ -35,6 +35,7 @@ Before that, I was a Visiting Student at [Innovative Technologies Laboratories][
 [junma]: https://junma-ust.github.io/
 [roas]: https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/robotics-and-autonomous-systems
 [ece]: https://cemse.kaust.edu.sa/ece
+[yehia]: https://yehiamassoud.com/
 [itl]: https://cemse.kaust.edu.sa/itl
 [meriem]: https://cemse.kaust.edu.sa/emang/people/person/taous-meriem-laleg-kirati
 [kaust]: https://www.kaust.edu.sa/en
@@ -42,3 +43,4 @@ Before that, I was a Visiting Student at [Innovative Technologies Laboratories][
 [marmot]: https://www.marmotlab.org
 [nus]: https://www.nus.edu.sg
 [paris-scalay]: https://www.universite-paris-saclay.fr
+[jun]: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/MA-Jun/eejma
