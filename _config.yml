@@ -29,7 +29,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -90,7 +90,7 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false # true
 
 # Comments
 disqus_shortname: al-folio # put your disqus shortname
@@ -104,13 +104,13 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false # true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false # true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
