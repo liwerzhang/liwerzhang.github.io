@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am Yubin Wang, a Mphil student in [Robotics][roas] with [Jun Ma][jun] at [the Hong Kong University of Science and Technology (Guangzhou)][hkust(gz)] and co-advised in [ECE][ece] by [Yehia Massoud][yehia] at [Innovative Technologies Laboratories][itl] at [King Abdullah University of Science and Technology][kaust]. 
 
-Before that, I was a Visiting student with [Meriem Laleg][meriem] at [King Abdullah University of Science and Technology][kaust] (now at [Université Paris-Saclay][paris-scalay]). I obtained my B.Eng  in 2022 from [Northeastern University][neu] with [Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps]. I also held a position as a research intern at [Multi-Agent Robotic Motion Lab][marmot] advised by [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
+Before that, I was a visiting student with [Meriem Laleg][meriem] at [King Abdullah University of Science and Technology][kaust] (now at [Université Paris-Saclay][paris-scalay]). I obtained my B.Eng  in 2022 with [Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps] at [Northeastern University][neu]. I also held a position as a research intern at [Multi-Agent Robotic Motion Lab][marmot] advised by [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
 
 ### Research Interests
 
