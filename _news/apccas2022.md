@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Post
 date: 2022-09-26
 inline: true
 ---
