@@ -27,8 +27,15 @@ layout: default
               {{ page.profile.address }}
             </div>
             {%- endif %}
+          
+          </div>
+          {%- endif %}
 
-            {%- if page.social %}
+          <div class="clearfix">
+            {{ content }}
+          </div>
+
+          {%- if page.social %}
           <!-- Social -->
           <div class="social">
             <div class="contact-icons">
@@ -40,13 +47,6 @@ layout: default
           </div>
           {%- endif %}
           
-          </div>
-          {%- endif %}
-
-          <div class="clearfix">
-            {{ content }}
-          </div>
-
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}

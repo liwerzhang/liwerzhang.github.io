@@ -16,13 +16,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Mphil student in [Robotics and Autonomous Systems][roas] with [Jun Ma][jun] at [the Hong Kong University of Science and Technology (Guangzhou)][hkust(gz)] and co-advised in [ECE][ece] by [Yehia Massoud][yehia] at [Innovative Technologies Laboratories][itl] at [King Abdullah University of Science and Technology][kaust]. 
 
-Previously, I was a visiting student with [Meriem Laleg][meriem] at [King Abdullah University of Science and Technology][kaust] (now at [Université Paris-Saclay][paris-scalay]). I obtained my bachelor degree  in 2022 with [Fei Chen][fei][Northeastern University][neu]. 
+Previously, I was a visiting student with [Meriem Laleg][meriem] at [KAUST][kaust] (now at [Université Paris-Saclay][paris-scalay]). I obtained my bachelor degree  from [Northeastern University][neu]. I worked as a research intern at [Multi-Agent Robotic Motion Lab][marmot] advised by [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
 
-I also held a position as a research intern at [Multi-Agent Robotic Motion Lab][marmot] advised by [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
-
-## Research
-
-I focus on the intersection of robitics, control and learning with applications to planning and decision-making for autonomous systems, e.g. autonomous vehicles and robots.
+My research covers the intersection of robitics, control and learning with applications to planning and decision-making for autonomous systems, e.g. autonomous vehicles and robots.
 
 [neu]: https://www.neu.edu.cn
 [fei]: https://ancl.com.cn/
