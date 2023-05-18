@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2022-04-03 
+date: 2022-04-01
 inline: true
 ---
-Joining the[ HKUST(GZ)][hkust] as a Mphil Student this Fall.
+One paper was accepted to Physica A.
 
-[hkust]: https://hkust-gz.edu.cn/
