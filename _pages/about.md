@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>Master Student in Control @ < a href='https://www.neu.edu.cn'>NEU</ a></p>
+subtitle: <p>Master Student in Control @ NEU</p>
      
 profile: 
   align: center
