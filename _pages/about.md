@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-
+subtitle: <p>Master Student in Control @ < a href='https://www.neu.edu.cn'>NEU</ a></p>
+     
 profile: 
   align: center
   image: prof_pic.jpg
@@ -13,24 +13,28 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+### About
 
-I am a first-year MPhil student in [Robotics][roas] with [Jun Ma][jun] at [the Hong Kong University of Science and Technology (Guangzhou)][hkust(gz)], and co-advised in [ECE][ece] by [Yehia Massoud][yehia]  at [King Abdullah University of Science and Technology][kaust]. 
+Hi, I am Liwen Zhang, a Master Student in Control Engineering advised by [Linying Xiang][linying] and [Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps] at [Northeastern Univeristy][neu].    
 
-Previously, I spent several years as a visiting student with [Meriem Laleg][meriem] at [KAUST][kaust] (now at [Université Paris-Saclay][paris-scalay]). I also worked at [Multi-Agent Robotic Motion Lab][marmot] advised by [Guillaume Sartoretti][gui] at [National University of Singapore][nus].
+I also hold a research collaboration position at [Innovative Technologies Laboratories][itl] with [Yehia Massoud][yehia] at [King Abdullah University of Science and Technology][kaust].          
 
-My research covers the intersection of robitics, control and learning with applications to planning and decision-making for autonomous systems, e.g. autonomous vehicles and robots.
+I obtained my B.Eng in Automation in Jun. 2020 from [Qingdao University of Technology][qtech].
 
-[neu]: https://www.neu.edu.cn
-[fei]: https://ancl.com.cn/
-[hkust(gz)]: https://hkust-gz.edu.cn/
-[roas]: https://hkust-gz.edu.cn/academics/four-hubs/systems-hub/robotics-and-autonomous-systems
+### Research Interests 
+**focus on the multi-agent systems and networked systems control, especially for graph theory and complex networks**.     
+
+**current topics -  the relationship of fragility and responseness of boolean networks via graph theory and reinforcement learning.**   
+
+
+[yehia]: https://cemse.kaust.edu.sa/itl/people/person/yehia-massoud
+[qtech]: http://www.qtech.edu.cn/
 [ece]: https://cemse.kaust.edu.sa/ece
-[yehia]: https://yehiamassoud.com/
 [itl]: https://cemse.kaust.edu.sa/itl
-[meriem]: https://cemse.kaust.edu.sa/emang/people/person/taous-meriem-laleg-kirati
+
 [kaust]: https://www.kaust.edu.sa/en
-[gui]: https://marmotlab.org/bio.html
-[marmot]: https://www.marmotlab.org
-[nus]: https://www.nus.edu.sg
-[paris-scalay]: https://www.universite-paris-saclay.fr
-[jun]: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/MA-Jun/eejma
+
+[neu]: https://www.neu.edu.cn 
+[fei]: https://ancl.com.cn/
+[linying]: https://ancl.com.cn/ancl.html
+[saps]: http://www.sapi.neu.edu.cn/
