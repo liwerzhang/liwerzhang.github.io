@@ -16,9 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ### About
 
 Hi, I am Liwen Zhang, a Master Student in Control Engineering advised by [Linying Xiang][linying] and [Fei Chen][fei] from [State Key Laboratory of Synthetical Automation for Process Industries][saps] at [Northeastern Univeristy][neu].    
-
-I also hold a research collaboration position at [Innovative Technologies Laboratories][itl] at [King Abdullah University of Science and Technology][kaust].          
-
+  
 I obtained my B.Eng in Automation in Jun. 2020 from [Qingdao University of Technology][qtech].
 
 ### Research Interests 
@@ -26,12 +24,7 @@ I obtained my B.Eng in Automation in Jun. 2020 from [Qingdao University of Techn
 
 
 
-[yehia]: https://cemse.kaust.edu.sa/itl/people/person/yehia-massoud
 [qtech]: http://www.qtech.edu.cn/
-[ece]: https://cemse.kaust.edu.sa/ece
-[itl]: https://cemse.kaust.edu.sa/itl
-
-[kaust]: https://www.kaust.edu.sa/en
 
 [neu]: https://www.neu.edu.cn 
 [fei]: https://ancl.com.cn/
